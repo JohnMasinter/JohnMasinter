@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnMasinter
-- 👀 I’m interested in Linux, Kernel, OpenSSL, FIPS, STIG
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on Rocky Linux
+- 👀 I’m interested in Linux, Kernel, OpenSSL, FIPS, STIG, Cloud, Containers, Kubernetes
+- 🌱 I’m currently learning golang, Rancher
+- 💞️ I’m looking to collaborate on FIPS 140-3
 - 📫 How to reach me john@masinter.net
 
 <!---
