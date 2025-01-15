@@ -3,15 +3,15 @@
   - Software engineer, long career as software architect, cloud architect, solution architect, eng mgr.
   - Study the philosophy of software engineering, writing book about how big companies get it terribly wrong.
   - Linux, C/C++, Python, Kernel dev, OpenSSL/FIPS/STIG, Macbook Pro is daily driver.
-  - K8s, serverless containers, cloud migration, Istio, Envoy.
+  - K8s, serverless containers, cloud migration, Istio, Envoy, service mesh.
   - FCC Extra license radio operator, SatCom, SDR, RF circuit design and fabrication.
-- 🌱 I’m currently learning Rust, MATLAB Simulink, Autodesk Fusion 360, 3D printing, and Patience.
+- 🌱 I’m currently learning Rust, MATLAB Simulink, Autodesk Fusion 360, 3D printing, and patience.
 - 💞️ I would love:
   - Move my many life-time software projects to github as open source.
   - Collaborate on FIPS 140-3, develop open source tools for certification.
-  - Development of a LibreSSL FIPS patch, and obtain and share a standalone FIPS 140-3 cert.
+  - Development of a LibreSSL FIPS patch, and obtain public FIPS 140-3 cert.
   - As SMACK is to SELinux, develop a auto-config lightweight K8s wrapper.
-  - Develop a MATLAB Simulink model to produce a fixed frequency patch antenna for SatCom. (Input desired freq, output .gbr file.)
+  - Develop a MATLAB Simulink model for fixed frequency patch antenna. (Input freq, output .gbr)
 - 📫 How to reach me john@masinter.net
 
 <!---
